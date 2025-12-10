@@ -36,7 +36,7 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
       />
     </picture>
   </a>
-  <a href="https://www.github.com/abd-almofleh" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/Aborii" target="_blank" rel="noreferrer">
     <picture>
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
@@ -76,12 +76,12 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 
 <div  align="center" style="display: flex; flex-direction : column; align-items: center">
 
-<a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=abd-almofleh&show_icons=true&hide=stars&show=reviews&theme=radical" alt="abd-almofleh's GitHub stats" /></a>
+<a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=Aborii&show_icons=true&hide=stars&show=reviews&theme=radical" alt="Aborii's GitHub stats" /></a>
 
-<a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://github-readme-streak-stats-eta-six.vercel.app/?user=abd-almofleh&theme=radical&exclude_days=Sun,Sat" /></a>
+<a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://aboriis-github-readme-streak-stats.vercel.app/?user=Aborii&theme=radical&exclude_days=Sun,Sat" /></a>
 
 <a href="https://stackoverflow.com/users/8822094/abdullah-almofleh" align="center"><img src="https://stack-over-flow-stats.vercel.app/api?user=8822094&theme=radical" alt="Top Languages" /></a>
 
-<a href="https://www.linkedin.com/in/abdullah-almofleh" align="center"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=abd-almofleh&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top Languages" /></a>
+<a href="https://www.linkedin.com/in/abdullah-almofleh" align="center"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=Aborii&langs_count=5&custom_title=Top%20%Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top Languages" /></a>
 
 </div>
