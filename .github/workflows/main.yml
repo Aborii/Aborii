@@ -6,6 +6,9 @@ on:
     # Runs every minute
     - cron: "0 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update todoist stats
