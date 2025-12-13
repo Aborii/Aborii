@@ -3,7 +3,9 @@
 ## Software Enginner | React Developer | Laravel Developer
 
 I am a Software Engineer with experience in building high scale RESTful APIs and web applications. I specialize in Laravel (+4 years) and ReactJS (+3 years), in addition to moderate experience in Node.js (+2.5 years) and Vue.js (+2 years). In addition, I was a team leader for a small team (4 developers) for 1 year. I have experience working in a Scrum environment for 1 year. And I am passionate about everything in IT, especially Artificial Intelligence and Game development.
-<a href="https://www.abdullah-almofleh.com/" target="_blank" style="float: right; margin-top: 10px"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+
+<a href="https://www.abdullah-almofleh.com/" target="_blank">
+<img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
 
 - 🌍 I'm based in Dubai, United Arab Emirates
 - 🖥️ See my portfolio at [LinkedIn](http://www.linkedin.com/in/abdullah-almofleh/)
