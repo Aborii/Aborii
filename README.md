@@ -83,6 +83,12 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 ⏳  Longest streak is 12 days
 <!-- TODO-IST:END -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aborii/Aborii/snake-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aborii/Aborii/snake-svg/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aborii/Aborii/snake-svg/github-contribution-grid-snake.svg">
+</picture>
+
 ### Badges
 
 
