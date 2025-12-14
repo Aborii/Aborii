@@ -78,8 +78,8 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 
 <!-- TODO-IST:START -->
 🏆  3,133 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 125 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 126 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
 
