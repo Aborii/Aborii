@@ -77,10 +77,10 @@ I am a Software Engineer with experience in building high scale RESTful APIs and
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  6,016 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 442 tasks so far           
-⏳  Longest streak is 33 days
+🏆  6,037 Karma Points           
+🌸  Completed 11 tasks today           
+✅  Completed 450 tasks so far           
+⏳  Longest streak is 34 days
 <!-- TODO-IST:END -->
 
 <picture>
