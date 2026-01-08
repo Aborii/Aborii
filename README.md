@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Almofleh
 
-## Software Enginner | React Developer | Laravel Developer
+## Software Enginner | Next.js + Nest.js Developer | Laravel Developer
 
-I am a Software Engineer with experience in building high scale RESTful APIs and web applications. I specialize in Laravel (+4 years) and ReactJS (+3 years), in addition to moderate experience in Node.js (+2.5 years) and Vue.js (+2 years). In addition, I was a team leader for a small team (4 developers) for 1 year. I have experience working in a Scrum environment for 1 year. And I am passionate about everything in IT, especially Artificial Intelligence and Game development.
+Software Engineer and Senior Full-Stack Developer with nearly **7 years of experience** building scalable, production-ready web applications. Strong expertise in the JavaScript and TypeScript ecosystem, including **React**, **Next.js**, **Vue.js**, **Node.js**, **Nest.js**, **Laravel**, and **Express.js**. Proven ability to deliver full-stack solutions for SaaS platforms, energy systems, e-learning platforms, e-commerce, and enterprise tools across the full development lifecycle from architecture and API design to deployment and production support.
 
 <a href="https://www.abdullah-almofleh.com/" target="_blank">
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
