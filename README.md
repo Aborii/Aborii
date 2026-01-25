@@ -77,10 +77,10 @@ Software Engineer and Senior Full-Stack Developer with nearly **7 years of exper
 # Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  7,975 Karma Points           
-🌸  Completed 6 tasks today           
-✅  Completed 838 tasks so far           
-⏳  Longest streak is 52 days
+🏆  8,014 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 852 tasks so far           
+⏳  Longest streak is 53 days
 <!-- TODO-IST:END -->
 
 <picture>
