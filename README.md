@@ -74,15 +74,6 @@ Software Engineer and Senior Full-Stack Developer with nearly **7 years of exper
   </a>
 </p>
 
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-🏆  9,028 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,254 tasks so far           
-⏳  Longest streak is 69 days
-<!-- TODO-IST:END -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aborii/Aborii/snake-svg/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aborii/Aborii/snake-svg/github-contribution-grid-snake.svg">
