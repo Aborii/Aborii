@@ -1,0 +1,32 @@
+name: Update README with Resume Data
+
+on:
+  workflow_dispatch: # Allow manual trigger
+  schedule:
+    # Runs daily at 06:00 UTC
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with resume data
+        id: update
+        run: python3 .github/scripts/update_readme.py
+        continue-on-error: true
+
+      - name: Commit and push changes
+        if: steps.update.outcome == 'success'
+        run: |
+          git config --local user.email "almofleh.abdullah@gmail.com"
+          git config --local user.name "Abdullah Almofleh"
+          git add README.md
+          git commit -m "chore: update README summary from resume data [skip ci]"
+          git push
