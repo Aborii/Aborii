@@ -49,13 +49,13 @@ def update_readme(new_summary):
         with open(README_PATH, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # Pattern to match the summary section
-        # Between the subtitle and the image link
-        pattern = r'(## Software Enginner[^\n]*\n\n)(.*?)(\n\n<a href="https://www\.abdullah-almofleh\.com/")'
+        # Pattern to match the summary section, delimited by explicit markers so
+        # the README can be restyled without breaking the sync.
+        pattern = r'(<!-- SUMMARY:START -->\n)(.*?)(\n<!-- SUMMARY:END -->)'
 
         # Check if pattern matches
         if not re.search(pattern, content, flags=re.DOTALL):
-            print("Error: Could not find summary section in README", file=sys.stderr)
+            print("Error: Could not find SUMMARY markers in README", file=sys.stderr)
             sys.exit(EXIT_ERROR)
 
         # Replace the summary. A function replacement is used rather than a
