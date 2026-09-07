@@ -19,11 +19,20 @@ jobs:
 
       - name: Update README with resume data
         id: update
-        run: python3 .github/scripts/update_readme.py
-        continue-on-error: true
+        run: |
+          set +e
+          python3 .github/scripts/update_readme.py
+          code=$?
+          set -e
+          echo "exit_code=$code" >> "$GITHUB_OUTPUT"
+          # 0 = updated, 1 = already up to date, anything else is a real failure
+          if [ "$code" -gt 1 ]; then
+            echo "::error::Resume sync failed with exit code $code"
+            exit "$code"
+          fi
 
       - name: Commit and push changes
-        if: steps.update.outcome == 'success'
+        if: steps.update.outputs.exit_code == '0'
         run: |
           git config --local user.email "almofleh.abdullah@gmail.com"
           git config --local user.name "Abdullah Almofleh"
