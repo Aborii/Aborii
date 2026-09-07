@@ -2,7 +2,7 @@
 
 ## Software Enginner | Next.js + Nest.js Developer | Laravel Developer
 
-Software Engineer and Senior Full-Stack Developer with nearly **7 years of experience** building scalable, production-ready web applications. Strong expertise in the JavaScript and TypeScript ecosystem, including **React**, **Next.js**, **Vue.js**, **Node.js**, **Nest.js**, **Laravel**, and **Express.js**. Proven ability to deliver full-stack solutions for SaaS platforms, energy systems, e-learning platforms, e-commerce, and enterprise tools across the full development lifecycle from architecture and API design to deployment and production support.
+Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
 
 <a href="https://www.abdullah-almofleh.com/" target="_blank">
 <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
