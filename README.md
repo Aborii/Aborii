@@ -22,7 +22,7 @@
 ---
 
 <a href="https://almofleh.dev" target="_blank">
-<img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" alt="" /></a>
+<img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="32%" height="auto" alt="" /></a>
 
 <!-- SUMMARY:START -->
 Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
