@@ -18,11 +18,26 @@
   <a href="https://github.com/Aborii"><img src="https://img.shields.io/github/followers/Aborii?style=flat-square&logo=github&label=Followers&color=1c1917" alt="GitHub followers" /></a>
 </p>
 
+---
+
+<!--
+  The image sits beside the text on wide screens and drops to its own row on
+  narrow ones. GitHub strips CSS, so the two slots below swap places using the
+  media queries <picture> does support: whichever one does not apply collapses
+  to a 1x1 transparent spacer instead of rendering the image at a smaller size.
+-->
+
 <p align="center">
-  <a href="https://almofleh.dev" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" alt="" /></a>
+  <a href="https://almofleh.dev" target="_blank"><picture>
+    <source media="(min-width: 1001px)" srcset=".github/assets/spacer.png" />
+    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" />
+  </picture></a>
 </p>
 
----
+<a href="https://almofleh.dev" target="_blank"><picture>
+  <source media="(max-width: 1000px)" srcset=".github/assets/spacer.png" />
+  <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" />
+</picture></a>
 
 <!-- SUMMARY:START -->
 Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
@@ -32,6 +47,8 @@ Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia
 - Most at home where **real-time data meets scale**: sensor ingestion, time-series aggregation, and dashboards that stay fast under load.
 - Work across the full lifecycle — architecture and API design through to deployment and production support.
 - Learning **React Native** and **Unity** on the side.
+
+<br clear="right" />
 
 ## Where I do my best work
 
