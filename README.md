@@ -50,10 +50,6 @@ Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia
 reports in one organised place, wrapped in a paper notebook rather than a spreadsheet.
 Next.js and NestJS, static export on the front, launching soon.
 
-The banner above is not a mockup of the site. It is rendered from the site's own
-components — the same notebook, sticky note and rough.js strokes — and regenerated
-straight into its Open Graph image.
-
 ## Where I do my best work
 
 Most of my recent engineering has been on systems that never stop receiving data. Sensors publish over **MQTT** through **AWS IoT Core**, land in **TimescaleDB** and **PostgreSQL**, and have to come back out as charts an energy professional can actually read — without waiting.
