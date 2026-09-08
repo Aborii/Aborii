@@ -1,0 +1,17 @@
+version: 2
+
+updates:
+  # Keeps the actions used by the workflows in this repository current.
+  # Both workflows fell several majors behind before this was added:
+  # actions/checkout sat on v4 while v7 was out, and
+  # crazy-max/ghaction-github-pages on v3.1.0 while v5 was out.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    commit-message:
+      prefix: "chore"
+    labels:
+      - "dependencies"
+    open-pull-requests-limit: 5
