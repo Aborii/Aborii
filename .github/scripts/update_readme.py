@@ -169,7 +169,8 @@ def build_languages(data):
     """The single table cell listing spoken languages."""
     langs = data.get('languages') or {}
     if not langs:
-        return "—"
+        print("Error: No languages found in resume data", file=sys.stderr)
+        sys.exit(EXIT_ERROR)
     return ", ".join(f"{name} ({level.lower()})" for name, level in langs.items())
 
 
@@ -212,8 +213,12 @@ def main():
 
     print("Rendering sections...")
     updated = original
+    changed = []
     for name, build in SECTIONS.items():
+        before = updated
         updated = replace_block(updated, name, build(data))
+        if updated != before:
+            changed.append(name)
 
     if updated == original:
         print("No changes needed - README already matches the resume")
@@ -226,8 +231,6 @@ def main():
         print(f"Error writing README: {e}", file=sys.stderr)
         sys.exit(EXIT_ERROR)
 
-    changed = [n for n in SECTIONS
-               if replace_block(original, n, SECTIONS[n](data)) != original]
     print("README updated. Sections changed: " + ", ".join(changed))
     sys.exit(EXIT_UPDATED)
 
