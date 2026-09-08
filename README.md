@@ -27,17 +27,9 @@
   to a 1x1 transparent spacer instead of rendering the image at a smaller size.
 -->
 
-<p align="center">
-  <a href="https://almofleh.dev" target="_blank"><picture>
-    <source media="(min-width: 1001px)" srcset=".github/assets/spacer.png" />
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" />
-  </picture></a>
-</p>
+<p align="center"><a href="https://almofleh.dev" target="_blank"><picture><source media="(min-width: 1001px)" srcset=".github/assets/spacer.png" /><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" /></picture></a></p>
 
-<a href="https://almofleh.dev" target="_blank"><picture>
-  <source media="(max-width: 1000px)" srcset=".github/assets/spacer.png" />
-  <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" />
-</picture></a>
+<p><a href="https://almofleh.dev" target="_blank"><picture><source media="(max-width: 1000px)" srcset=".github/assets/spacer.png" /><img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" /></picture></a></p>
 
 <!-- SUMMARY:START -->
 Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
