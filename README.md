@@ -15,25 +15,23 @@
   <a href="https://almofleh.dev"><img src="https://img.shields.io/badge/Portfolio-almofleh.dev-0B7285?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/abdullah-almofleh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:almofleh.abdullah@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://stackoverflow.com/users/8822094/abdullah-almofleh"><img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://github.com/Aborii"><img src="https://img.shields.io/github/followers/Aborii?style=flat-square&logo=github&label=Followers&color=1c1917" alt="GitHub followers" /></a>
 </p>
 
----
+<p align="center">
+  <a href="https://almofleh.dev" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" alt="" /></a>
+</p>
 
-<a href="https://almofleh.dev" target="_blank">
-<img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="32%" height="auto" alt="" /></a>
+---
 
 <!-- SUMMARY:START -->
 Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
 <!-- SUMMARY:END -->
 
-- Based in **Dubai, UAE** — working across the full lifecycle, from architecture and API design through to production support.
 - Currently **Senior Software Engineer at Estia Software DMCC**, leading architecture for energy SaaS platforms.
 - Most at home where **real-time data meets scale**: sensor ingestion, time-series aggregation, and dashboards that stay fast under load.
-- Speak **Arabic** natively and **English** professionally.
-
-<br clear="right" />
+- Work across the full lifecycle — architecture and API design through to deployment and production support.
+- Learning **React Native** and **Unity** on the side.
 
 ## Where I do my best work
 
@@ -92,22 +90,18 @@ Most of my recent engineering has been on systems that never stop receiving data
 
 </details>
 
-## Find me
+## Get in touch
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-almofleh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.github.com/Aborii" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.stackoverflow.com/users/8822094/abdullah-almofleh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" />
-  </a>
-  <a href="https://discord.com/users/_aborii" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-  </a>
-</p>
+Open to collaborating on **React and Next.js work**, **AI projects**, and generally anything new and interesting. Email is the fastest way to reach me.
+
+|                  |                                                                              |
+| ---------------- | ---------------------------------------------------------------------------- |
+| **Email**        | [almofleh.abdullah@gmail.com](mailto:almofleh.abdullah@gmail.com)              |
+| **LinkedIn**     | [in/abdullah-almofleh](https://www.linkedin.com/in/abdullah-almofleh)          |
+| **Portfolio**    | [almofleh.dev](https://almofleh.dev)                                           |
+| **Discord**      | [@\_aborii](https://discord.com/users/_aborii)                                 |
+| **Based in**     | Dubai, United Arab Emirates — Gulf Standard Time, UTC+4                        |
+| **Languages**    | Arabic (native), English (professional)                                        |
 
 ## Activity
 
@@ -116,8 +110,6 @@ Most of my recent engineering has been on systems that never stop receiving data
 <a href="https://github.com/Aborii"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api?username=Aborii&show_icons=true&hide=stars&show=reviews&theme=radical" alt="Abdullah's GitHub stats" /></a>
 
 <a href="https://github.com/Aborii"><img src="https://aboriis-github-readme-streak-stats.vercel.app/?user=Aborii&theme=radical&exclude_days=Sun,Sat" alt="Contribution streak" /></a>
-
-<a href="https://stackoverflow.com/users/8822094/abdullah-almofleh"><img src="https://stack-over-flow-stats.vercel.app/api?user=8822094&theme=radical" alt="Stack Overflow stats" /></a>
 
 <a href="https://github.com/Aborii"><img src="https://github-readme-stats-tawny-xi-39.vercel.app/api/top-langs/?username=Aborii&langs_count=5&custom_title=Top%20Languages&include_all_commits=true&theme=radical&layout=compact" alt="Top languages" /></a>
 
