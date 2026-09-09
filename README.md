@@ -42,6 +42,14 @@ Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia
 
 <br clear="right" />
 
+## Currently building
+
+<a href="https://aldafter.com" target="_blank"><img src=".github/assets/aldafter-banner.png" alt="Aldafter — your simple money notebook, coming soon" width="100%" /></a>
+
+**[Aldafter](https://aldafter.com)** — a simple money notebook. Accounts, debts, budgets and
+reports in one organised place, wrapped in a paper notebook rather than a spreadsheet.
+Next.js and NestJS, static export on the front, launching soon.
+
 ## Where I do my best work
 
 Most of my recent engineering has been on systems that never stop receiving data. Sensors publish over **MQTT** through **AWS IoT Core**, land in **TimescaleDB** and **PostgreSQL**, and have to come back out as charts an energy professional can actually read — without waiting.
