@@ -32,7 +32,7 @@
 <p><a href="https://almofleh.dev" target="_blank"><picture><source media="(max-width: 1000px)" srcset=".github/assets/spacer.png" /><img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" alt="" /></picture></a></p>
 
 <!-- SUMMARY:START -->
-Senior Full-Stack Engineer with ~7 years building high-volume platforms at Estia Software DMCC (real time energy/e-learning), handling 2M+ daily time-series data points. Architected NestJS/PostgreSQL backends and Next.js/Typescript front-ends from scratch, driving 25-40% performance gains through database sharding and caching optimizations while mentoring development teams.
+Senior Full-Stack Engineer with ~7 years of experience building SaaS platforms in real estate, energy and e-learning. At Propwise in Dubai, I build a real estate CRM and its mobile app, Propilot, across the backend, web app and mobile app. My work covers the core CRM modules, team roles and permissions, and performance work like cutting a key query from 93s to 3.9s on 1.9M tasks. Before that, at Estia Software, I led architecture for enterprise energy platforms handling 2M+ daily IoT events, delivering 25–40% performance improvements and 99.9% uptime. I enjoy owning systems end to end, mentoring engineers, and using Claude and Cursor to plan, build and test complex features faster.
 <!-- SUMMARY:END -->
 
 - Currently **Senior Software Engineer at Estia Software DMCC**, leading architecture for energy SaaS platforms.
@@ -68,6 +68,8 @@ Most of my recent engineering has been on systems that never stop receiving data
 <!-- PROJECTS:START -->
 | Project | What it is | Built with |
 | --- | --- | --- |
+| **[Propwise](https://www.propwise.com/)** | Real Estate CRM (SaaS) | Next.js/NestJS · PostgreSQL · pg-boss · PostHog/GA4 |
+| **Propilot** | AI Assistant & Mobile App for Real Estate Agents | React Native · NestJS · PostgreSQL · RevenueCat · Push notifications |
 | **[Envita](https://envita.io/)** | Energy Monitoring Platform | Next.js/NestJS · MQTT/AWS IoT Core · TimescaleDB/PostgreSQL |
 | **[Ecorize](https://ecorize.de/en)** | Energy Planning Software | React/GraphQL · PostgreSQL/Redis · NestJS |
 | **[ASP School](https://asp-school.nl)** | Online Learning Platform | Laravel/React · Node.js |
@@ -84,12 +86,14 @@ Most of my recent engineering has been on systems that never stop receiving data
 | --- | --- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Front-End** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-5C6BC0?style=flat-square) |
 | **Back-End** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=flat-square) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) |
 | **Real-time & IoT** | ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![AWS IoT Core](https://img.shields.io/badge/AWS%20IoT%20Core-232F3E?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 | **APIs** | ![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) |
 | **DevOps and Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions CI/CD](https://img.shields.io/badge/GitHub%20Actions%20CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white) |
 | **Testing/Tools** | ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **AI Tools** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-5C6BC0?style=flat-square) ![Cursor](https://img.shields.io/badge/Cursor-5C6BC0?style=flat-square) |
 | **Methodologies** | ![Agile](https://img.shields.io/badge/Agile-5C6BC0?style=flat-square) ![Scrum](https://img.shields.io/badge/Scrum-5C6BC0?style=flat-square) |
 <!-- STACK:END -->
 
@@ -101,13 +105,15 @@ Most of my recent engineering has been on systems that never stop receiving data
 <!-- EXPERIENCE:START -->
 | Period | Role | Company |
 | --- | --- | --- |
-| May 2023 — Present | Senior Software Engineer | Estia Software DMCC · Dubai, United Arab Emirates |
+| February 2026 — Present | Senior Full-Stack Engineer | Propwise.com · Dubai, United Arab Emirates |
+| May 2023 — January 2026 | Senior Software Engineer | Estia Software DMCC · Dubai, United Arab Emirates |
 | December 2022 — May 2023 | Software Engineer | Nordelco DMCC · Dubai, United Arab Emirates |
-| October 2022 — December 2022 | Software Engineer | Digital Real Marketing · Dubai, United Arab Emirates |
+| October 2022 — December 2022 | Full-Stack Developer | Digital Real Marketing · Dubai, United Arab Emirates |
 | November 2021 — September 2022 | Full-Stack Developer | 3 Miles · Damascus, Syria |
-| August 2020 — March 2022 | Full-Stack Developer | Unifi Solutions · Remote, Part-time |
-| February 2021 — May 2021 | Full-Stack Developer | Technical G · Damascus, Syria |
-| July 2020 — October 2021 | Full-Stack Developer | Aspiraties · Damascus, Syria (Remote, Part-time) |
+| May 2021 — March 2022 | Full-Stack JavaScript Developer | Unifi Solutions · Damascus, Syria (Remote, Part-time) |
+| February 2021 — May 2021 | Full-Stack Developer & IT Support | Technical G · Damascus, Syria |
+| July 2020 — October 2021 | Full-Stack Developer | Aspiraties · Damascus, Syria (Hybrid, Part-time) |
+| August 2020 — January 2021 | Back-End Developer | Unifi Solutions · Damascus, Syria (Remote, Part-time) |
 | May 2019 — April 2021 | Full-Stack Developer | We Media · Damascus, Syria |
 
 **Education** — Bachelor of Information Engineering (Artificial Intelligence), Arab International University, Damascus, Syria. October 2016 - February 2022, GPA 3.25 out of 4.00.
